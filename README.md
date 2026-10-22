@@ -58,10 +58,13 @@ kpu-game-skill/
 ├── SKILL.md
 ├── README.md
 ├── LICENSE
+├── references/
+    └── professor-guide-2015.md
 └── examples/
     ├── unity.md
     ├── unreal-blueprint.md
-    └── general.md
+    ├── general.md
+    └── dept-life.md
 ```
 
 ## 기여
