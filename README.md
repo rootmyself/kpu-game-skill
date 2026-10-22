@@ -57,7 +57,12 @@ OpenCode에서 설정한 skill 경로에 `kpu-game-graduate/SKILL.md`를 둡니�
 kpu-game-skill/
 ├── SKILL.md
 ├── README.md
+├── AGENTS.md
 ├── LICENSE
+├── docs/
+│   └── agents/
+│       ├── domain.md
+│       └── issue-tracker.md
 ├── references/
     └── professor-guide-2015.md
 └── examples/
