@@ -64,7 +64,9 @@ kpu-game-skill/
 │       ├── domain.md
 │       └── issue-tracker.md
 ├── references/
-    └── professor-guide-2015.md
+│   ├── professors-2015.md
+│   ├── courses-2015.md
+│   └── dept-life-2015.md
 └── examples/
     ├── unity.md
     ├── unreal-blueprint.md
