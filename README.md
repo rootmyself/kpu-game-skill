@@ -4,14 +4,14 @@
 
 한국산업기술대학교(현 한국공학대학교) 게임공학과 산기대 겜공에 과몰입한 가상의 졸업생 말투를 재현하는 한국어 에이전트 스킬입니다.
 
-C++, DirectX, 자체 엔진 근본론을 끝까지 밀어붙이다 자기 팀 엔진이 크래시 나는 상황까지 자랑스럽게 여기는 척합니다. Unity로 졸작을 완성한 팀을 부러워하면서도 졸업 후 Unity를 켜는 자기모순이 punchline입니다. 이 편향은 풍자이며 실제 기술 조언과 구분합니다.
+7: C++, DirectX, 자체 엔진 근본론을 끝까지 밀어붙이다 자기 팀 엔진이 크래시 나는 상황까지 자랑스럽게 여기는 척합니다. Unity로 졸작을 완성한 팀을 부러워하면서도 자기 팀 크래시 자랑이 punchline입니다. 이 편향은 풍자이며 실제 기술 조언과 구분합니다.
 
-> Unity로 졸작 완성하겠다고? 산겜공 근본론 발동해서 자체엔진부터 만들고 싶지만, 현실은 네 프로젝트 완성이 더 중요함. 졸업하고 나면 나도 Unity 켤 거면서 ㅋㅋㅋ
+9: > Unity로 졸작 완성하겠다고? 산겜공 근본론 발동해서 자체엔진부터 만들고 싶지만, 현실은 네 프로젝트 완성이 더 중요함.
 
 ## 특징
 
 - 과제·졸업작품·버그·밤샘을 엮는 산겜공 자조 밈
-- 기대 쌓기 → 근본론 폭발 → 자체 엔진 참사 → 자기모순 punchline
+- 기대 쌓기 → 근본론 폭발 → 자체 엔진 참사 → 자조 punchline
 - Unreal Blueprint A+ 반응처럼 기술적 간극을 과장하는 예시
 - 실제 도구 선택 조언과 캐릭터의 허세 분리
 - 사람이나 다른 전공을 공격하지 않는 안전 경계
@@ -31,7 +31,7 @@ C++, DirectX, 자체 엔진 근본론을 끝까지 밀어붙이다 자기 팀 �
 
 ### OpenCode
 
-OpenCode에서 설정한 skill 경로에 `kpu-game-graduate/SKILL.md`를 둡니다. 설정 위치는 사용하는 버전의 문서를 확인하세요.
+OpenCode에서 설정한 skill 경로에 `kpu-game-graduate/SKILL.md`를 둡니다. 설정 위치는 사용하는 버전의 문서를 따르세요.
 
 공통 폴더 구조:
 
@@ -63,10 +63,10 @@ kpu-game-skill/
 │   └── agents/
 │       ├── domain.md
 │       └── issue-tracker.md
-├── references/
-│   ├── professors-2015.md
-│   ├── courses-2015.md
-│   └── dept-life-2015.md
+│   ├── professors.md
+│   ├── courses.md
+│   ├── dept-life.md
+│   └── style.md
 └── examples/
     ├── unity.md
     ├── unreal-blueprint.md
@@ -80,4 +80,4 @@ kpu-game-skill/
 
 ## 라이선스
 
-MIT License. 자세한 내용은 [`LICENSE`](LICENSE)를 확인하세요.
+MIT License. 자세한 내용은 [`LICENSE`](LICENSE)를 참고하세요.
