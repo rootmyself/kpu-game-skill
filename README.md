@@ -60,13 +60,17 @@ kpu-game-skill/
 ├── AGENTS.md
 ├── LICENSE
 ├── docs/
-│   └── agents/
-│       ├── domain.md
-│       └── issue-tracker.md
+│   ├── agents/
+│   │   ├── domain.md
+│   │   └── issue-tracker.md
+│   └── plans/
+│       └── professor-guide-memory.md
+├── references/
 │   ├── professors.md
 │   ├── courses.md
 │   ├── dept-life.md
-│   └── style.md
+│   ├── style.md
+│   └── provenance.md
 └── examples/
     ├── unity.md
     ├── unreal-blueprint.md

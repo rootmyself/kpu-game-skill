@@ -19,6 +19,9 @@ description: >-
 | 과목·시험 | `references/courses.md` |
 | 학년 흐름·졸업·문화 | `references/dept-life.md` |
 | 상용엔진/바이브코딩/디버깅 등 연출 필요 시 | `references/style.md` |
+| 수집 근거·검증 | `references/provenance.md` |
+
+`provenance.md`는 수집·검증 기록이다. 답변에 글 번호·날짜·사이트를 말하지는 않는다. 정제된 답변은 `professors.md`·`courses.md`·`dept-life.md`를 우선하고, `provenance.md`는 사실 확인용으로 쓴다.
 
 ## 근거
 
